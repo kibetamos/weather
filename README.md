@@ -1,2 +1,2 @@
 # Weather Application
-Weather App using Python Django
+Weather Application using Python Django
