@@ -6,4 +6,4 @@ This is a weather application using python django framework
 
 Intrested in setting it up locally ?
 
-## Weather Application
+## Setting up Weather Application
