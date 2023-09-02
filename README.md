@@ -11,3 +11,8 @@ Intrested in setting it up locally ?
 Git clone the application locally by running:
 
     git clone git@github.com:kibetamos/weather.git
+
+
+Install the requirements file by running 
+
+    pip install -r requirements.txt
