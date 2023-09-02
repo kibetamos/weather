@@ -1,4 +1,4 @@
-# Weather Application
+# Python Weather Application
 
 Weather Application using Python Django
 
