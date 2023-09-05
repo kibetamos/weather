@@ -12,6 +12,8 @@ Git clone the application locally by running:
 
     git clone git@github.com:kibetamos/weather.git
 
+Create a virtual environment env by runing :
+
 
 Install the requirements file by running 
 
