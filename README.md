@@ -27,3 +27,6 @@ Install the requirements file by running
 After installing requiremtns, we run the server by riunning:
 
     python manage.py runserver
+
+
+You can access the application locally through https://127.0.0.1:8000
