@@ -23,3 +23,7 @@ Activate Virtual env by running
 Install the requirements file by running 
 
     pip install -r requirements.txt
+    
+After installing requiremtns, we run the server by riunning:
+
+    python manage.py runserver
