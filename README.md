@@ -16,6 +16,9 @@ Create a virtual environment env by runing :
 
      python -m venv env
 
+Activate Virtual env by running 
+
+    source env/bin/actiovate
 
 Install the requirements file by running 
 
