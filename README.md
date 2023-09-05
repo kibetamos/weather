@@ -14,7 +14,7 @@ Git clone the application locally by running:
 
 Create a virtual environment env by runing :
 
-   python -m venv env
+     python -m venv env
 
 
 Install the requirements file by running 
