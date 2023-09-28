@@ -8,6 +8,7 @@ Intrested in setting it up locally ?
  
 ## Setting up Weather Application
 
+
 Git clone the application locally by running:
 
     git clone git@github.com:kibetamos/weather.git
